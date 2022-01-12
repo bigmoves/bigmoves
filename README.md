@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Chad. I'm currently working on the next generation of budgeting and reporting software at OpenGov [OpenGov](https://opengov.com/). 
+My name is Chad. I'm currently working on the next generation of budgeting and reporting software at [OpenGov](https://opengov.com/). 
 
 In my free time, I like tinkering with new libraries and frameworks in the javascript/typescript world. 
 
