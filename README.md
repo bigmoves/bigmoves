@@ -3,7 +3,7 @@
 My name is Chad. I'm currently working on the next generation of budgeting and reporting software at [OpenGov](https://opengov.com/). In my free time, I like tinkering with new libraries and frameworks in the javascript/typescript world. 
 
 ### Personal Website 
-My personal [site](https://rad-chadtmiller15.vercel.app/) is built with [Remix.run](https://remix.run/), [Vercel](https://www.vercel.com), and [tailwind](https://tailwindcss.com/). Photos are from adventures with friends and how I like spending time away from screens.
+My personal [site](https://rad-sigma.vercel.app/) is built with [Remix.run](https://remix.run/), [Vercel](https://www.vercel.com), and [tailwind](https://tailwindcss.com/). Photos are from adventures with friends and how I like spending time away from screens.
 
 ![image](https://user-images.githubusercontent.com/3190894/149206062-bbb63b41-d624-40f7-98ea-54d6f065551c.png)
 
