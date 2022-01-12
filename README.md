@@ -1,8 +1,6 @@
 ### Hello 👋
 
-My name is Chad. I'm currently working on the next generation of budgeting and reporting software at [OpenGov](https://opengov.com/). 
-
-In my free time, I like tinkering with new libraries and frameworks in the javascript/typescript world. 
+My name is Chad. I'm currently working on the next generation of budgeting and reporting software at [OpenGov](https://opengov.com/). In my free time, I like tinkering with new libraries and frameworks in the javascript/typescript world. 
 
 ### Melt
 I recently built a [website](https://github.com/bigmoves/melt) for a friend to showcase her cermanics. The site hasn't gone live yet but it uses Next.js and [Airtable](https://www.airtable.com/) as the backend API. Airtable is surprisingly good as a CMS. It's easy to manage content and upload photos, it also has event triggers which I use for the contact page to send emails so she is notified when someone wants to connect 😉.
