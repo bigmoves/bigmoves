@@ -9,7 +9,7 @@ My personal [site](https://rad-sigma.vercel.app/) is built with [Remix.run](http
 
 
 ### Melt
-I recently built a [website](https://github.com/bigmoves/melt) for a friend to showcase her cermanics. The site hasn't gone live yet but it uses Next.js and [Airtable](https://www.airtable.com/) as the backend API. Airtable is surprisingly good as a CMS. It's easy to manage content and upload photos, it also has event triggers which I use for the contact page to send emails so she is notified when someone wants to connect 😉.
+I recently built a [website](https://github.com/bigmoves/melt) for a friend to showcase her cermanics. The site hasn't gone live yet but it uses Next.js and [Airtable](https://www.airtable.com/) as the backend API. Airtable is surprisingly good as a CMS. It's easy to manage content and upload photos. It also has event triggers which I use for the contact page to send emails so she is notified when someone wants to connect 😉.
 
 ![image](https://user-images.githubusercontent.com/3190894/148863911-e7fd554b-db70-4ca7-8f40-eafa43eb0216.png)
 
