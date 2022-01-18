@@ -1,8 +1,10 @@
 ### Hello 👋
 
-My name is Chad. I'm currently working on the next generation of budgeting and reporting software at [OpenGov](https://opengov.com/). In my free time I like tinkering with new libraries and frameworks in the javascript/typescript world. 
+My name is Chad. I'm currently working on the next generation of budgeting and reporting software at [OpenGov](https://opengov.com/). I live in Bishop, CA and spend my free time rock climbing, skiing, and exploring the outdoors. I also enjoy tinkering with new javascipt libraries and frameworks. 
 
-### Personal Website 
+Here are some projects I've worked on recently...
+
+### [WIP] Personal Website 
 My personal [site](https://rad-sigma.vercel.app/) is built with [Remix.run](https://remix.run/), [Vercel](https://www.vercel.com), and [tailwind](https://tailwindcss.com/). Photos are from adventures with friends and how I like spending time away from screens.
 
 ![image](https://user-images.githubusercontent.com/3190894/149206062-bbb63b41-d624-40f7-98ea-54d6f065551c.png)
