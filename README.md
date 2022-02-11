@@ -5,7 +5,7 @@ My name is Chad. I'm currently working on the next generation of budgeting and r
 Here are some projects I've worked on recently...
 
 ### [WIP] Personal Website 
-My personal [site](https://rad-sigma.vercel.app/) is built with [Remix.run](https://remix.run/), [Vercel](https://www.vercel.com), and [tailwind](https://tailwindcss.com/). Photos are from adventures with friends and how I like spending time away from screens.
+I'm working on a new personal [site](https://rad-sigma.vercel.app/) built with [Remix.run](https://remix.run/) and [tailwind](https://tailwindcss.com/). Photos are from adventures with friends and how I like spending time away from screens.
 
 ![image](https://user-images.githubusercontent.com/3190894/149206062-bbb63b41-d624-40f7-98ea-54d6f065551c.png)
 
@@ -16,7 +16,9 @@ I recently built a [website](https://github.com/bigmoves/melt) for a friend to s
 ![image](https://user-images.githubusercontent.com/3190894/148863911-e7fd554b-db70-4ca7-8f40-eafa43eb0216.png)
 
 ### No Luck Run
-A few years ago I built a [website](https://github.com/bigmoves/noluckrun) for a friend's neighborhood fun run. They needed a way for folks to sign-up for the event and accept payments/donations. The site is built with Next.js, Chakra UI, Firebase, Mapbox and Stripe. We succussfully used the site to get everyone registered for the event and accept payments, though it was postponed due to the pandemic.
+I recently built a [website](https://github.com/bigmoves/noluckrun) for a friend's neighborhood fun run. They needed a way for folks to sign-up for the event and accept payments/donations. The site is built with Remix, Tailwind, Postgres, and Stripe.
+![image](https://user-images.githubusercontent.com/3190894/153674751-e86a229e-d37c-46d5-9459-e4549abda1d2.png)
+
 
 <!--
 **bigmoves/bigmoves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
